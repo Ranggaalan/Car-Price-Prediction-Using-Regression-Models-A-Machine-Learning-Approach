@@ -1,0 +1,2 @@
+# Car-Price-Prediction-Using-Regression-Models-A-Machine-Learning-Approach
+This project aims to predict car prices based on various vehicle attributes using different regression models. The dataset is sourced from Kaggle's Car Price Dataset, containing information about car specifications, engine details, and fuel efficiency. The goal is to determine the best regression model for accurate car price estimation.
